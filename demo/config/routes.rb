@@ -1,8 +1,12 @@
 Demo::Application.routes.draw do
+  resources :people
+
+
   root :to => 'welcome#index'
   get "welcome/say_hello" => "welcome#say"
   get "welcome" => "welcome#index"
   get "welcome1/say_go_the_hell" => "welcome#hell"
+
 
 
 
