@@ -1,38 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" name="Default" comment="scaffold person" />
-    <list id="bef6daab-6347-455e-93bd-3351d39fae41" name="New changelist1" comment="New changelist1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20130507084813_create_people.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/people/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/people/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/people/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/people/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/people.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/people.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/people.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/people_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/people_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/people_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/people_helper_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/person.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/person_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/people/show.html.erb" />
-    </list>
-    <list id="245ad16a-e71d-4f76-b6ba-d6f2c1d6a733" name="New changelist2" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+    <list default="true" id="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" name="Default" comment="scaffold person">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/routes.rb" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367908802966" ignored="false" />
-    <file path="/Dummy.txt" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367926538372" ignored="false" />
+    <file path="/Dummy.txt" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367926781173" ignored="false" />
     <file path="/Ruby Console" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367915896591" ignored="false" />
     <file path="/database.yml" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367915134343" ignored="false" />
     <file path="/a.less" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367925534669" ignored="false" />
     <file path="/a.sql" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367925536234" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" time="1367926538053" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +88,7 @@
               <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/app/views/people/index.html.erb">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state line="13" column="53" selection-start="185" selection-end="185" vertical-scroll-proportion="-5.25">
+                    <state line="4" column="32" selection-start="57" selection-end="57" vertical-scroll-proportion="-2.7142856">
                       <folding />
                     </state>
                   </provider>
@@ -118,7 +97,7 @@
               <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state line="20" column="48" selection-start="1874" selection-end="1874" vertical-scroll-proportion="-6.2108316">
+                    <state line="205" column="59" selection-start="10303" selection-end="10303" vertical-scroll-proportion="0.52583027">
                       <folding />
                     </state>
                   </provider>
@@ -218,6 +197,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -933,11 +913,20 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="759bd62b-68a9-43e9-8c21-7e93c0fd14f3" name="Default" comment="" />
       <changelist id="" name="New changelist" comment="New changelist123" />
-      <changelist id="bef6daab-6347-455e-93bd-3351d39fae41" name="New changelist1" comment="" />
-      <changelist id="245ad16a-e71d-4f76-b6ba-d6f2c1d6a733" name="New changelist2" comment="" />
+      <changelist id="" name="New changelist1" comment="" />
+      <changelist id="" name="New changelist2" comment="" />
       <created>1367908113698</created>
       <updated>1367908113698</updated>
     </task>
+    <task id="LOCAL-00001" summary="modified commit">
+      <created>1367926613583</created>
+      <updated>1367926613583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="scaffold person">
+      <created>1367926654541</created>
+      <updated>1367926654541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -962,9 +951,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="2971" height="1080" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977626" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24991395" sideWeight="0.6969377" order="1" side_tool="false" content_ui="tabs" />
@@ -1039,6 +1029,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="modified commit" />
     <MESSAGE value="scaffold person" />
   </component>
   <component name="XDebuggerManager">
@@ -1145,14 +1136,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/people/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="53" selection-start="185" selection-end="185" vertical-scroll-proportion="-5.25">
+        <state line="4" column="32" selection-start="57" selection-end="57" vertical-scroll-proportion="-2.7142856">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="48" selection-start="1874" selection-end="1874" vertical-scroll-proportion="-6.2108316">
+        <state line="205" column="59" selection-start="10303" selection-end="10303" vertical-scroll-proportion="0.52583027">
           <folding />
         </state>
       </provider>
