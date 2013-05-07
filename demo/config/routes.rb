@@ -1,4 +1,13 @@
 Demo::Application.routes.draw do
+  root :to => 'welcome#index'
+  get "welcome/say_hello" => "welcome#say"
+  get "welcome" => "welcome#index"
+  get "welcome1/say_go_the_hell" => "welcome#hell"
+
+
+
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
