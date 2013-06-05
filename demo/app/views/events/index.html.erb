@@ -9,3 +9,7 @@
 <% end %>
 </ul>
 <%= link_to 'New event', :controller => 'events', :action => 'new' %>
+
+<p>
+<%= paginate @events %>
+</p>
